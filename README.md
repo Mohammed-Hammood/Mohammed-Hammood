@@ -1,4 +1,4 @@
-- 👋 Hi,I am a web developer. 
+- 👋 Hi,I am a full-stack developer. 
 - 👀 I’m interested in frontend and backed development.
 - 🌱 I’m  building different projects using differnt technologies: Reactjs, Python, JS/TS, Sass, Styled-components, Django, DRF, Redxu, Next.js, ... 
 
